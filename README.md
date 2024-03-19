@@ -25,12 +25,12 @@ To run the game locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dice-roll-game.git
+   git clone https://github.com/nistorrazvaniulian/Dice-Duel.git
 
 2. Open the project directory:
 
    ```bash
-   cd dice-roll-game
+   cd Dice-Duel
 
 3. Open the index.html file in your preferred web browser.
 
